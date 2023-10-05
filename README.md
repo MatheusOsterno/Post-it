@@ -1,4 +1,5 @@
 ### Post-it
+------------------------------------------------------------------------------------
 Projeto: Post-it
 Função: Gravar uma lista de tarefas onde você pode listar como feitas e não feitas.
 Prós: Mesmo se fechar a aba da aplicação será salvo seus dados (LocalStorage).
